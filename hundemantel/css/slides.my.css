@@ -1,0 +1,38 @@
+h2, 
+.h2 {
+  font-size:30px;
+  font-family:"serif";
+  margin-bottom:12px;
+  font-weight:400;
+  
+}
+
+
+
+h3, 
+.h3 {
+  font-size:50px;
+  font-family:"serif";
+  margin-bottom:12px;
+  font-weight:400;
+  
+}
+
+
+h4, 
+.h4 {
+  font-size:50px;
+  font-family:"serif";
+  margin-bottom:10px;
+  font-weight:400;
+}
+
+
+h5, 
+.h5 {
+  font-size:50px;
+  font-family:"serif";
+  margin-bottom:10px;
+  font-weight:400;
+}
+
